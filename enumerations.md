@@ -1,4 +1,4 @@
-# Enumerations
+## Enumerations
 
 The enumeration is a set of constants.
 
@@ -30,4 +30,4 @@ The dot notation should always be used to access constants.
 Texture.Format.RGBA8
 ```
 
-[back](readme.html)
+[:arrow_backward:](constants.md) [:arrow_forward:](structures.md)

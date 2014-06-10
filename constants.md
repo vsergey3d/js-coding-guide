@@ -1,4 +1,4 @@
-# Constants
+## Constants
 
 Constants should be declared as regular variables or static properties.
 
@@ -23,4 +23,4 @@ var MAX_USER_COUNT = 1024,
     counter = 0;
 ```
 
-[back](readme.html)
+[:arrow_backward:](variables.md) [:arrow_forward:](enumerations.md)

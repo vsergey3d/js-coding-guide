@@ -1,4 +1,4 @@
-# Naming
+## Naming
 
 `my-directory` / `my-file.js`
 
@@ -18,4 +18,4 @@ myFunction / .myMethod
 ._myPrivate / ._myProtected
 ```
 
-[back](readme.html)
+[:arrow_backward:](readme.md) [:arrow_forward:](indentation.md)

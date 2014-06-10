@@ -1,4 +1,4 @@
-# Objects
+## Objects
 
 The name of constructor function should be formatted in upper camel case.
 Properties and methods should be named in lower camel case.
@@ -59,7 +59,7 @@ Vector2.prototype = new Vector2Proto();
 
 Inheritance chains should be defined using following pattern:
 
-<img src="../img/inheritance.png">
+![inheritance](img/inheritance.png)
 
 ```javascript
 ParentProto = function () {
@@ -104,4 +104,4 @@ Child.prototype = new ChildProto();
 
 The `null` value should be used to assign or compare a variable that intended to be an object value.
 
-[back](readme.html)
+[:arrow_backward:](functions.md) [:arrow_forward:](errors.md)

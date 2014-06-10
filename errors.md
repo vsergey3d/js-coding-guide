@@ -1,4 +1,4 @@
-# Errors
+## Errors
 
 Do not throw primitives and literals.
 
@@ -54,4 +54,4 @@ OtherError = function (message, ...) {
 OtherError.prototype = new OtherErrorProto();
 ```
 
-[back](readme.html)
+[:arrow_backward:](objects.md) [:arrow_forward:](modules.md)

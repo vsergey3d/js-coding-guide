@@ -1,4 +1,4 @@
-# Structures
+## Structures
 
 `{}` should be used instead of `new Object()`.
 
@@ -26,4 +26,4 @@ settings.width = 1280;
 settings.height = 720;
 ```
 
-[back](readme.html)
+[:arrow_backward:](enumerations.md) [:arrow_forward:](functions.md)

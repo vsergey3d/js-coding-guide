@@ -1,4 +1,4 @@
-# Statements
+## Statements
 
 Each line contains at most one statement.
 
@@ -86,4 +86,4 @@ return (conditionA && conditionB);
 Do not use `with` statement.
 
 
-[back](readme.html)
+[:arrow_backward:](modules.md) [:arrow_forward:](comments.md)

@@ -1,4 +1,4 @@
-# Modules
+## Modules
 
 Modules should be declared at the beginning of the main module file.
 One or two blank lines should be inserted after the declaration.
@@ -24,4 +24,4 @@ MyModule.MyConstructor = function () {
 
 Do not use nested modules.
 
-[back](readme.html)
+[:arrow_backward:](errors.md) [:arrow_forward:](operators.md)

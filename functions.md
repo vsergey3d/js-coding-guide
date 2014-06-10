@@ -1,4 +1,4 @@
-# Functions
+## Functions
 
 Do not use global functions.
 
@@ -60,4 +60,4 @@ myFunc = (function() {
 }());
 ```
 
-[back](readme.html)
+[:arrow_backward:](structures.md) [:arrow_forward:](objects.md)

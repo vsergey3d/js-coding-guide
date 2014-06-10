@@ -1,6 +1,6 @@
-# Primitives
+## Primitives
 
-## Numbers
+### Numbers
 
 Numbers should be written as decimal integers, e-notation integers, hex-notation integers or floating-point decimals (with at least one digit before and one digit after the point).
 
@@ -10,7 +10,7 @@ Numbers should be written as decimal integers, e-notation integers, hex-notation
 
 Do not use octal literals.
 
-## Strings
+### Strings
 
 Strings should always use double quotes.
 Strings that require inner quoting should use double outside and single inside.
@@ -32,7 +32,7 @@ The wrapped line should be indented one level (four spaces).
     "massa. Cum sociis natoque penatibus et magnis."
 ```
 
-## Arrays
+### Arrays
 
 `[]` should be used instead of `new Array()`.
 
@@ -56,7 +56,7 @@ There should be no space after the opening square bracket or before the closing 
 ]
 ```
 
-## Dictionaries
+### Dictionaries
 
 `{}` should be used instead of `new Object()`.
 
@@ -93,12 +93,12 @@ fruits["apple"] = 10;
 delete fruits["mango"];
 ```
 
-## RegExps
+### RegExps
 
 The literal notation should be used instead of `RegExp` constructor.
 
-## Undefined
+### Undefined
 
 Do not use the `undefined` assignment.
 
-[back](readme.html)
+[:arrow_backward:](indentation.md) [:arrow_forward:](variables.md)

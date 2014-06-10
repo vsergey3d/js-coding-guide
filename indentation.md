@@ -1,4 +1,4 @@
-# Indentation
+## Indentation
 
 The unit of indentation is four spaces.
 
@@ -31,4 +31,4 @@ var colors = {
 };
 ```
 
-[back](readme.html)
+[:arrow_backward:](naming.md) [:arrow_forward:](primitives.md)

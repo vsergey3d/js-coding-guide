@@ -1,4 +1,4 @@
-# Variables
+## Variables
 
 Do not use global variables.
 
@@ -33,4 +33,4 @@ var indices = [14, 23, 5, 3],
     ];
 ```
 
-[back](readme.html)
+[:arrow_backward:](primitives.md) [:arrow_forward:](constants.md)
