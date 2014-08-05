@@ -12,6 +12,7 @@ MyObject = function (someValue) {
 
     this.propA = "abc";
     this.propB = 16;
+    this.propC = someValue;
 };
 ```
 
@@ -63,10 +64,9 @@ Inheritance chains should be defined using following pattern:
 
 ```javascript
 ParentProto = function () {
-
+    
     this.doSome = function () {
-
-        // methods
+        // ...
     };
 };
 
