@@ -66,7 +66,7 @@ Inheritance chains should be defined using following pattern:
 ParentProto = function () {
     
     this.doSome = function () {
-        // ...
+        
     };
 };
 
