@@ -6,7 +6,7 @@ The name should be formatted in upper camel case.
 Each line contains at most one constant.
 
 ```javascript
-Tools.Status = {
+Status = {
 
     WAITING: 1,
     LOADING: 2,

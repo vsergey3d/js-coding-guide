@@ -46,7 +46,7 @@ OtherErrorProto.prototype = MyError.prototype;
 
 OtherError = function (message, ...) {
 
-    Error.call(this, message, "OtherError");
+    MyError.call(this, message, "OtherError");
 
     // properties
 };
