@@ -87,7 +87,7 @@ ChildProto = function () {
 
         // specific actions
 
-        Parent.doSome.call(this);
+        Parent.prototype.doSome.call(this);
     };
 };
 
